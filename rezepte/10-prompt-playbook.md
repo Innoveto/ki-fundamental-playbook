@@ -8,7 +8,7 @@
 
 ## Kernaussage
 
-Die besten Prompts aus beiden Tagen in eine persönliche Rezeptsammlung packen. Das Playbook ist das nachhaltige Takeaway: etwas, das du am Montag im Job nutzt.
+Die besten Prompts aus beiden Tagen in eine persönliche Rezeptsammlung packen. Das Playbook ist das nachhaltige Takeaway: etwas, das du im Arbeitsalltag nutzt.
 
 ## Lernziel
 

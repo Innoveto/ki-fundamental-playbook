@@ -103,7 +103,7 @@ Details: [setup/tools.md](setup/tools.md)
 - Das Startup ist der rote Faden. Tools kommen, wenn dein Startup sie braucht.
 - Kontext vor Technik. Guter Kontext schlägt jede Prompt-Formel.
 - Rezepte statt Theorie. Gerade genug "Warum", dann "Wie" und "Mach".
-- Das Prompt-Playbook ist dein Takeaway. Etwas, das du am Montag tatsächlich nutzt.
+- Das Prompt-Playbook ist dein Takeaway. Etwas, das du im Arbeitsalltag tatsächlich nutzt.
 - Ehrlich über Grenzen. Baut Vertrauen und setzt realistische Erwartungen.
 
 ## Lizenz
